@@ -2,7 +2,7 @@
 //  main.m
 //  httptest
 //
-//  Created by 青鹿 純子 on 13/12/31.
+//  Created by aoshika on 2013/12/31.
 //  Copyright (c) 2013 __MyCompanyName__. All rights reserved.
 //
 
